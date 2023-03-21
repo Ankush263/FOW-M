@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
-import FirstPage from './components/CELO-HACK/FirstPage';
+import FirstPage from './components/Project/FirstPage';
 
 const Home: NextPage = () => {
   return (
