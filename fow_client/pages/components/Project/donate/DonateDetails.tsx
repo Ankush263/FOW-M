@@ -14,7 +14,7 @@ import BigNumber from 'bignumber.js';
 
 function DonateDetails() {
 
-  const deployAddress = "0x669177e39bE3a2c6631B25b422843932545cEC60"
+  const deployAddress = "0x43984da072707A9F477eC6f295128fE8A5ebd55B"
 
   const [donationDesc, setDonationDesc] = useState({
     language: '',
